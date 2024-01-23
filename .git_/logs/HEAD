@@ -1,0 +1,53 @@
+0000000000000000000000000000000000000000 4eeb489077e8e445d1417440049ace3c1f2e92f8 Rodrigo <contato.iem.vendas@hotmail.com> 1701629863 -0300	clone: from https://github.com/serratec/2023_2_FEST_Sistema-de-Competencia-Rede-de-Conhecimento_frontend.git
+4eeb489077e8e445d1417440049ace3c1f2e92f8 96f04eff338072db083b0da0743907d2f54d9d35 Rodrigo <contato.iem.vendas@hotmail.com> 1701629925 -0300	checkout: moving from main to Develop
+96f04eff338072db083b0da0743907d2f54d9d35 ff2f1ed71468e142b46ceac005b2742f92dc34ed Rodrigo <contato.iem.vendas@hotmail.com> 1701640425 -0300	pull: Fast-forward
+ff2f1ed71468e142b46ceac005b2742f92dc34ed 8aafd179d5d22dd219b4f8441415f818ed28f969 Rodrigo <contato.iem.vendas@hotmail.com> 1701641516 -0300	pull: Fast-forward
+8aafd179d5d22dd219b4f8441415f818ed28f969 e1154b66de63248ff4528b6d5d452612e7521725 Rodrigo <contato.iem.vendas@hotmail.com> 1701643783 -0300	commit: ajustando tela descricaoCompetencia
+e1154b66de63248ff4528b6d5d452612e7521725 dbba4a0b5fd8d36d2399f9b0e066bb4af326b7d1 Rodrigo <contato.iem.vendas@hotmail.com> 1701645057 -0300	commit: ajustado nomes das colunas da página
+dbba4a0b5fd8d36d2399f9b0e066bb4af326b7d1 ad2657b9ef4f672d9759b7acebc82a40e4b23018 Rodrigo <contato.iem.vendas@hotmail.com> 1701648212 -0300	commit: ajustando os styles
+ad2657b9ef4f672d9759b7acebc82a40e4b23018 3ef4ff874a85a5ae9a282f65db763a1f12e87e4e Rodrigo <contato.iem.vendas@hotmail.com> 1701651129 -0300	commit: ajuste do ícon de editar
+3ef4ff874a85a5ae9a282f65db763a1f12e87e4e 13a02a73f9c370730725313cfbd529982451ddb0 Rodrigo <contato.iem.vendas@hotmail.com> 1701652881 -0300	commit: adicionado ícones e ajustado DarkMode
+13a02a73f9c370730725313cfbd529982451ddb0 ecfc40f0bb4da826aa4b05b0badbc6f27047a4fd Rodrigo <contato.iem.vendas@hotmail.com> 1701725282 -0300	pull: Fast-forward
+ecfc40f0bb4da826aa4b05b0badbc6f27047a4fd e000893d2d890992cb40835a86b0b767282bd663 Rodrigo <contato.iem.vendas@hotmail.com> 1701727763 -0300	pull: Fast-forward
+e000893d2d890992cb40835a86b0b767282bd663 89aa01ebd26ec2102f4eed72d7573629484ae872 Rodrigo <contato.iem.vendas@hotmail.com> 1701728220 -0300	commit: ajuste de SGC para SC no ícone
+89aa01ebd26ec2102f4eed72d7573629484ae872 26a1371787c04c59fdfb04c8dfb40750a3938521 Rodrigo <contato.iem.vendas@hotmail.com> 1701732569 -0300	commit: ajustes no ícone de editar e inserido o de lixeira
+26a1371787c04c59fdfb04c8dfb40750a3938521 824b0644ce2f43d83bafc9ce5c1b3a44103d16c4 Rodrigo <contato.iem.vendas@hotmail.com> 1701732592 -0300	pull --tags origin Develop: Merge made by the 'ort' strategy.
+824b0644ce2f43d83bafc9ce5c1b3a44103d16c4 44ffd24471a915ef3940d312d13f6c0c48a8c334 Rodrigo <contato.iem.vendas@hotmail.com> 1701732657 -0300	commit: identação
+44ffd24471a915ef3940d312d13f6c0c48a8c334 6fa614caf8c11950c218e47702b6e9ef2cd71e3e Rodrigo <contato.iem.vendas@hotmail.com> 1701738572 -0300	commit: implementado POST na API
+6fa614caf8c11950c218e47702b6e9ef2cd71e3e 418c55db711ea9349b2d8e9a63d8966da33a42cd Rodrigo <contato.iem.vendas@hotmail.com> 1701738614 -0300	pull --tags origin Develop: Merge made by the 'ort' strategy.
+418c55db711ea9349b2d8e9a63d8966da33a42cd 7a16e243e0fd918f12a74cb36c9f14e14e279730 Rodrigo <contato.iem.vendas@hotmail.com> 1701744361 -0300	commit: Ajustado mensagem e fechar modal
+7a16e243e0fd918f12a74cb36c9f14e14e279730 47866738f70c82119b8d1387a92945aff6d8797c Rodrigo <contato.iem.vendas@hotmail.com> 1701744517 -0300	commit: implementado o put e ajustado mensagens do modal.
+47866738f70c82119b8d1387a92945aff6d8797c 37cf597be1eeab140bf905cf28e2cf059efc294d Rodrigo <contato.iem.vendas@hotmail.com> 1701817226 -0300	pull: Fast-forward
+37cf597be1eeab140bf905cf28e2cf059efc294d 52d4d2ac2322be1cbf4987244b42348342ef418e Rodrigo <contato.iem.vendas@hotmail.com> 1701829384 -0300	commit: implementado deletar no ícon de excluir.
+52d4d2ac2322be1cbf4987244b42348342ef418e 936be366c8079b5a152ea33f0263b57f13b7fac5 Rodrigo <contato.iem.vendas@hotmail.com> 1701829405 -0300	pull --tags origin Develop: Merge made by the 'ort' strategy.
+936be366c8079b5a152ea33f0263b57f13b7fac5 ab0ef02987e88d787bacc147c0272a924a42267a Rodrigo <contato.iem.vendas@hotmail.com> 1701830473 -0300	commit: removendo funções sem uso
+ab0ef02987e88d787bacc147c0272a924a42267a a8bfe353cb07b26a1f155508f8dc4067425a3bd0 Rodrigo <contato.iem.vendas@hotmail.com> 1701832325 -0300	commit: cursor pointer nos icones editar e de excluir
+a8bfe353cb07b26a1f155508f8dc4067425a3bd0 c5ded9459b7efa58e4c31cd80f95fefe0b94f993 Rodrigo <contato.iem.vendas@hotmail.com> 1701896706 -0300	pull: Fast-forward
+c5ded9459b7efa58e4c31cd80f95fefe0b94f993 6b5f623aa3d8a5905c24cd6aa2c0a2f10a8e3b54 Rodrigo <contato.iem.vendas@hotmail.com> 1702069514 -0300	pull: Fast-forward
+6b5f623aa3d8a5905c24cd6aa2c0a2f10a8e3b54 f0331f2c4d29846c4d958490a5a14868bda162e4 Rodrigo <contato.iem.vendas@hotmail.com> 1702076530 -0300	pull: Fast-forward
+f0331f2c4d29846c4d958490a5a14868bda162e4 bef39cf76a70fdceb3b7940d94ea395baf2820b5 Rodrigo <contato.iem.vendas@hotmail.com> 1702085419 -0300	pull: Fast-forward
+bef39cf76a70fdceb3b7940d94ea395baf2820b5 32855e3f120a72b1895909ca1d8e1acd86385795 Rodrigo <contato.iem.vendas@hotmail.com> 1702086279 -0300	pull: Fast-forward
+32855e3f120a72b1895909ca1d8e1acd86385795 7188685b9a7543c9bd373380213d065cf1c8ab30 Rodrigo <contato.iem.vendas@hotmail.com> 1702331697 -0300	pull: Fast-forward
+7188685b9a7543c9bd373380213d065cf1c8ab30 730c9c33c92a68f459b71665fe7a69c912b3dd73 Rodrigo <contato.iem.vendas@hotmail.com> 1702340202 -0300	pull: Fast-forward
+730c9c33c92a68f459b71665fe7a69c912b3dd73 758b5bbeef865c7e2ecb921303513e8ed0657e04 Rodrigo <contato.iem.vendas@hotmail.com> 1702436395 -0300	pull: Fast-forward
+758b5bbeef865c7e2ecb921303513e8ed0657e04 7d01359f69f5d50368da9e148054145fd656bb87 Rodrigo <contato.iem.vendas@hotmail.com> 1702501987 -0300	pull: Fast-forward
+7d01359f69f5d50368da9e148054145fd656bb87 223114be2817a2f9e931c1e47fdbc4cb5f802dae Rodrigo <contato.iem.vendas@hotmail.com> 1702509010 -0300	commit: ajuste na lógica para mudar de SGC para SC
+223114be2817a2f9e931c1e47fdbc4cb5f802dae 23ffaa5bca05ab9f480cde3e2e222ba7e35027b1 Rodrigo <contato.iem.vendas@hotmail.com> 1702509050 -0300	pull: Merge made by the 'ort' strategy.
+23ffaa5bca05ab9f480cde3e2e222ba7e35027b1 64304b214babba51126b64e8e9250cc020591a87 Rodrigo <contato.iem.vendas@hotmail.com> 1702510783 -0300	pull: Fast-forward
+64304b214babba51126b64e8e9250cc020591a87 364affe4cc3a7c14e3860ea732951258d0ffd4ff Rodrigo <contato.iem.vendas@hotmail.com> 1702510810 -0300	commit: ajuste no titulo da side bar para " Sistema de Competencia"
+364affe4cc3a7c14e3860ea732951258d0ffd4ff fead39ae4fe54618052fffdde6d09c23650f1911 Rodrigo <contato.iem.vendas@hotmail.com> 1702515120 -0300	commit: implementado chamar a página do perfil na sideBarMobile
+fead39ae4fe54618052fffdde6d09c23650f1911 8b826c41eab4acbce42e1b2221083b3d8778b937 Rodrigo <contato.iem.vendas@hotmail.com> 1702515694 -0300	commit: menu Expandido - ajuste para levar para a página do Perfil do usuário.
+8b826c41eab4acbce42e1b2221083b3d8778b937 9e5bf7bd7bf0463b4b56f86e9ca300e00015df63 Rodrigo <contato.iem.vendas@hotmail.com> 1702588026 -0300	pull: Fast-forward
+9e5bf7bd7bf0463b4b56f86e9ca300e00015df63 8ba0ade30428632520249572512aec9edf86f42a Rodrigo <contato.iem.vendas@hotmail.com> 1702603332 -0300	pull: Fast-forward
+8ba0ade30428632520249572512aec9edf86f42a 6ac5eb91d2e754099b5ebd6c86cf3a0dd131bfba Rodrigo <contato.iem.vendas@hotmail.com> 1702605417 -0300	commit: ajuste no campo de texto para TextareaAutosize
+6ac5eb91d2e754099b5ebd6c86cf3a0dd131bfba 0c925deaa72b817a59765171a721a1a9db2cc88c Rodrigo <contato.iem.vendas@hotmail.com> 1702606118 -0300	commit: ajuste no campo nome
+0c925deaa72b817a59765171a721a1a9db2cc88c a98b2b3ba05a32db17c793fa9c3a4694cf86cca4 Rodrigo <contato.iem.vendas@hotmail.com> 1702606140 -0300	pull: Merge made by the 'ort' strategy.
+a98b2b3ba05a32db17c793fa9c3a4694cf86cca4 2481e787b9acd841765ea3b1314c96e231696eae Rodrigo <contato.iem.vendas@hotmail.com> 1702606513 -0300	commit: ajuste nos campos de nome e descrição para TextareaAutosize
+2481e787b9acd841765ea3b1314c96e231696eae 7e7892af60c3ab595162f43fa7bca6f4c836b0dc Rodrigo <contato.iem.vendas@hotmail.com> 1702607219 -0300	commit: ajuste para bloquear ao atingiri o numero de caracteres -nome e descrição
+7e7892af60c3ab595162f43fa7bca6f4c836b0dc ce13cad679ff9f5f3eb199657506187f83affc7e Rodrigo <contato.iem.vendas@hotmail.com> 1702607367 -0300	commit: bloqueio no limite de caracteres - nome e descrição do serviço
+ce13cad679ff9f5f3eb199657506187f83affc7e 81f53f5eda6abdcad6cbf731893fcc12db34f792 Rodrigo <contato.iem.vendas@hotmail.com> 1702612936 -0300	commit: ajusete na SideBarMobile titulo agora está dinâmico
+81f53f5eda6abdcad6cbf731893fcc12db34f792 e6a7d234deb2c3b7641bb2f7d35a2bc1bbe39291 Rodrigo <contato.iem.vendas@hotmail.com> 1702612964 -0300	pull --tags origin Develop: Merge made by the 'ort' strategy.
+e6a7d234deb2c3b7641bb2f7d35a2bc1bbe39291 7b5c6d25684e814dd4ff09fe911f36f998bea382 Rodrigo <contato.iem.vendas@hotmail.com> 1702613171 -0300	pull --tags origin Develop: Fast-forward
+7b5c6d25684e814dd4ff09fe911f36f998bea382 9279df01912398ba2cf2206bb11dc309a440a880 Rodrigo <contato.iem.vendas@hotmail.com> 1703019481 -0300	pull: Fast-forward
+9279df01912398ba2cf2206bb11dc309a440a880 4eeb489077e8e445d1417440049ace3c1f2e92f8 Rodrigo <contato.iem.vendas@hotmail.com> 1703019512 -0300	checkout: moving from Develop to main
+4eeb489077e8e445d1417440049ace3c1f2e92f8 ba873ea3e4e89c7e2d7b16d724facc91acdce3c6 Rodrigo <contato.iem.vendas@hotmail.com> 1703019525 -0300	pull: Fast-forward

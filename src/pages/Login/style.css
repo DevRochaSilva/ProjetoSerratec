@@ -1,0 +1,50 @@
+
+.coluna-esquerda {
+  width: 100%;
+  width: 100vh;
+  background-image: url("../../assets/img/Group.svg");
+  background-color: var(--branco);
+  background-repeat: no-repeat;
+  background-size: 70%;
+  background-position: center;
+}
+
+.titulo-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.coluna-direita {
+  height: 100vh;
+  display: flex;
+  font-size: 100%;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--branco);
+  user-select: none;
+}
+
+.logo-t2m {
+  width: 35%;
+}
+
+.container-acessibility {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.item-acessibility {
+  color: var(--preto-primario);
+}
+
+.item-acessibility:hover {
+  color: var(--verde-primario2);
+}
+
+#sigla {
+  margin-top: 2rem;
+  color: var(--verde-primario3);
+  font-size: 2rem;
+}
